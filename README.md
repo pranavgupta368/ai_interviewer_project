@@ -1,2 +1,9 @@
-# ai_interviewer_project
-hackathon project
+# AI Interviewer Platform
+
+## Overview
+
+<content from GitHub>
+
+## Hackathon Project
+
+<content from your local README>
